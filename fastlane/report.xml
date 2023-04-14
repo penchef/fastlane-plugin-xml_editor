@@ -5,12 +5,12 @@
     
     
       
-      <testcase classname="fastlane.lanes" name="0: xml_editor" time="0.001764">
+      <testcase classname="fastlane.lanes" name="0: xml_editor" time="0.002189">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="1: xml_editor" time="0.000337">
+      <testcase classname="fastlane.lanes" name="1: xml_editor" time="0.000861">
         
       </testcase>
     
